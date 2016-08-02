@@ -1,16 +1,16 @@
 {
-  "name": "webpack",
+  "name": "webpackapp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines":{
-  	"node":"5.9.1"
+  "engines": {
+    "node": "5.9.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies":{
-  	"webpack": "@"
+  "dependencies": {
+    "webpack": "^1.13.1"
   },
   "author": "",
   "license": "ISC"
